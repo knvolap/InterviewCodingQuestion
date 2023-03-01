@@ -1,0 +1,16 @@
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.exe
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.deps.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.runtimeconfig.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.runtimeconfig.dev.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\bin\Debug\net5.0\FindAllPossibleSubstring.pdb
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.AssemblyInfoInputs.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.AssemblyInfo.cs
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\refint\FindAllPossibleSubstring.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.pdb
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\FindAllPossibleSubstring.genruntimeconfig.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\FindAllPossibleSubstring\obj\Debug\net5.0\ref\FindAllPossibleSubstring.dll

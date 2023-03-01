@@ -1,0 +1,16 @@
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.AssemblyInfoInputs.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.AssemblyInfo.cs
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.exe
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.deps.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.runtimeconfig.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.runtimeconfig.dev.json
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\bin\Debug\net5.0\RemoveDuplicateCharacters.pdb
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\refint\RemoveDuplicateCharacters.dll
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.pdb
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\RemoveDuplicateCharacters.genruntimeconfig.cache
+C:\Users\OS\source\repos\InterviewCodingQuestion\InterviewCodingQuestion\obj\Debug\net5.0\ref\RemoveDuplicateCharacters.dll
